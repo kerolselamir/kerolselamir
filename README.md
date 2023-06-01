@@ -5,7 +5,7 @@
   </p>
 <h3 align="center">Frontend Developer | React</h3>
 
-I'm a Frontend Developer with experience in Angular and React. I have a passion for creating modern and engaging web applications that meet the needs of clients and end-users. I prioritize clean and maintainable code that is easy to read and understand, and am committed to delivering high-quality code that meets project deadlines and exceeds client expectations.
+I'm a Frontend Developer with experience in  React. I have a passion for creating modern and engaging web applications that meet the needs of clients and end-users. I prioritize clean and maintainable code that is easy to read and understand, and am committed to delivering high-quality code that meets project deadlines and exceeds client expectations.
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
